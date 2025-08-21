@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/128130170654071571/d9d07224b3024751995a001488335a1e/artifacts
+end_time: 1755585742975
+entry_point_name: ''
+experiment_id: '128130170654071571'
+lifecycle_stage: active
+run_id: d9d07224b3024751995a001488335a1e
+run_name: upbeat-mouse-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755585734473
+status: 3
+tags: []
+user_id: dewan
